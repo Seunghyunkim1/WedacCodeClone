@@ -10,7 +10,7 @@
     "canvasjs": "^1.8.3",
     "kakaojs": "^1.2.0",
     "media": "^0.2.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-kakao-login": "^1.2.2",
